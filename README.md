@@ -4,8 +4,9 @@ Planning Workshop Django-Rest Framework par François Héliodore
 
 Réaliser une API avec DRF
 
-    1.  Installer Python et Django-Rest
-        1. Environ 30-45min
+    1.  Présenter et installer Python et DRF
+        1. Présentation de Python et DRF(15 min)
+        2. Installation 30 min
         
     2. Présentation DRF(1h15)
         1. Models
