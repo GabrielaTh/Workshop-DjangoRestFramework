@@ -2,9 +2,9 @@
 
 Planning Workshop Django-Rest Framework par François Héliodore
 
-Réaliser une API avec DRF
+#Réaliser une API avec DRF
 
-Vérifier votre version de Python :
+#Vérifier votre version de Python :
 
 python --version
 
