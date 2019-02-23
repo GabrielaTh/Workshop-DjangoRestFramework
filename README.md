@@ -63,4 +63,5 @@ Planning Workshop Django-Rest Framework par François Héliodore
             views.py
         manage.py /
 
-
+# Lancer DRF:
+    python manage.py runserver
